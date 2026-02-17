@@ -1,0 +1,72 @@
+{
+  "employees": [
+    {
+      "id": "f876",
+      "firstName": "Deepesh",
+      "middleName": "",
+      "lastName": "Sharma",
+      "maritalStatus": "",
+      "dob": "2004-01-29",
+      "email": "sharma.deepesh2000@gmail.com",
+      "mobile": "08868073542",
+      "address": {
+        "street": "JALESAR ROAD, TIRAHA",
+        "city": "Hathras",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "204101"
+      }
+    },
+    {
+      "id": "71b3",
+      "firstName": "Anuj",
+      "middleName": "Pratap",
+      "lastName": "Singh",
+      "maritalStatus": "Single",
+      "dob": "2004-02-10",
+      "email": "anuj@gmail.com",
+      "mobile": "7273294237",
+      "address": {
+        "street": "hno.34",
+        "city": "agra",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "593403"
+      }
+    },
+    {
+      "id": "de74",
+      "firstName": "pankaj",
+      "middleName": "",
+      "lastName": "sharma",
+      "maritalStatus": "Single",
+      "dob": "1995-08-07",
+      "email": "pankaj@gmail.com",
+      "mobile": "9875463245",
+      "address": {
+        "street": "h.530",
+        "city": "noida",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "201301"
+      }
+    },
+    {
+      "id": "7d63",
+      "firstName": "Vedika",
+      "middleName": "",
+      "lastName": "Goyal",
+      "maritalStatus": "Single",
+      "dob": "2003-09-26",
+      "email": "vg@gmail.com",
+      "mobile": "8654364523",
+      "address": {
+        "street": "chawar gate",
+        "city": "Hathras",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "pincode": "204101"
+      }
+    }
+  ]
+}
