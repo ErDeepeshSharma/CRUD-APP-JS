@@ -70,7 +70,7 @@ employeeFormEle.addEventListener("submit", async (e)=>{
 
   try{
   let resp= await fetch(`http://localhost:5000/employees/${id}`,{
-    method:"put";
+    method:"put",
     headers: {
         "Content-Type":"application/json",
     },
