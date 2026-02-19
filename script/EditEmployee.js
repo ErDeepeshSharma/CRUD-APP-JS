@@ -76,6 +76,8 @@ employeeFormEle.addEventListener("submit", async (e)=>{
     },
     body: JSON.stringify(updatedEmployeeData),
   });
+  // navigation to all employees page
+    window.location.href = "./AllEmployees.html";
     }catch(err){
         console.log(err);
         
